@@ -9,7 +9,7 @@ Initiation to dart
 
 <h3>Sur Ubuntu</h3>
 
-```sudo apt install dart-sdk```
+```sudo apt install dart```
 
 <h3>Sur MacOS</h3>
 
